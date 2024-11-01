@@ -28,6 +28,16 @@ header {
     text-decoration: none;
 }
 
+.logo a {
+    text-decoration: none; 
+    color: #393939;        
+    font-weight: 700;      
+}
+
+.logo a:hover {
+color: #080808;     
+}
+
 nav {
     display: flex;
     align-items: center;
